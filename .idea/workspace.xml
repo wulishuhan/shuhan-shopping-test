@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f0213d4-bf6f-4ac3-a196-2d37677d0f97" name="Default Changelist" comment="" />
+    <list default="true" id="6f0213d4-bf6f-4ac3-a196-2d37677d0f97" name="Default Changelist" comment="123">
+      <change afterPath="$PROJECT_DIR$/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -25,6 +31,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1ewHYpjROieYfG91ua63tofGSLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,10 +54,45 @@
       <option name="presentableId" value="Default" />
       <updated>1595225785428</updated>
       <workItem from="1595225788463" duration="40000" />
+      <workItem from="1595225833181" duration="649000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1595225949712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595225949712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1595225902667">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1595225902667" />
+    <state x="494" y="303" key="Github.CreateGistDialog" timestamp="1595225853650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="494" y="303" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1595225853650" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595226207733">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1595226207733" />
+    <state x="476" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595226140601">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="476" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1595226140601" />
+    <state x="467" y="171" key="git4idea.merge.GitPullDialog" timestamp="1595226183339">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="467" y="171" key="git4idea.merge.GitPullDialog/0.0.1366.768@0.0.1366.768" timestamp="1595226183339" />
   </component>
 </project>
