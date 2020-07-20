@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f0213d4-bf6f-4ac3-a196-2d37677d0f97" name="Default Changelist" comment="123">
-      <change afterPath="$PROJECT_DIR$/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6f0213d4-bf6f-4ac3-a196-2d37677d0f97" name="Default Changelist" comment="1232">
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595225785428</updated>
       <workItem from="1595225788463" duration="40000" />
-      <workItem from="1595225833181" duration="649000" />
+      <workItem from="1595225833181" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1595225949712</created>
@@ -63,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595225949712</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1232">
+      <created>1595226490154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595226490154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +77,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="1232" />
+    <option name="LAST_COMMIT_MESSAGE" value="1232" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1595225902667">
